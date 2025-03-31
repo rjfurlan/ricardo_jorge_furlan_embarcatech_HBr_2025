@@ -1,23 +1,24 @@
-# Projetos de Sistemas Embarcados - EmbarcaTech 2025
-
-Autor: **(insira seu nome)**
-
-Curso: Residência Tecnológica em Sistemas Embarcados
-
-Instituição: EmbarcaTech - HBr
-
-Campinas, março de 2025
+# ⚠ Disclaimer
+### THE SOFTWARE IS PROVIDED "AS IS", USE AT YOUR OWN RISK
+### O SOFTWARE É FORNECIDO "COMO ESTÁ", USE POR SUA CONTA E RISCO
+### The projects described here were developed for educational purposes as tasks for the EmbarcaTech professional training program. They have not been validated for production nor audited for best coding and security practices.
 
 ---
 
-## Sobre este repositório
-
-Este repositório reúne os projetos desenvolvidos ao longo do curso de Sistemas Embarcados, durante a etapa de residência.  
-
-Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e recursos visuais.
+# EmbarcaTech: 2024-2025
+### Ricardo Jorge Furlan
+### HBr - Campinas
+### Projects developed in the Embedded Systems course - EmbarcaTech 2024-2025
+- 2024: Phase 1 - Technical Professional Training
+- 2025: Phase 2 - Tech Residency
 
 ---
 
-## O que fazer com este arquivo
+# Hardware used
+### BitDogLab
 
-Ao fazer o *fork* do repositório, o aluno está livre para modificar este arquivo como quiser dentro do seu próprio *fork*.
+---
+
+# Projects
+- [Web Tx Intercom (Final project of phase 1)](./projects/web_tx_intercom/)
+- [Galton Board Digital (under development)](./projects/galton_board/)

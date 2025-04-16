@@ -17,8 +17,14 @@
 # Hardware used
 ### BitDogLab
 
+![BitDogLab](./assets/BitDogLab.jpg)
+
 ---
 
 # Projects
 - [Web Tx Intercom (Final project of phase 1)](./projects/web_tx_intercom/)
 - [Galton Board Digital (under development)](./projects/galton_board/)
+- [Tasks (course assignments, small projects)](./projects/tasks/)
+	+ [BitDogLab: Countdown Counter With Event Log By Interruption)](./projects/tasks/bitdoglab_countdown_counter_with_event_log_by_interruption/)
+	+ [BitDogLab: Joystick Reader](./projects/tasks/bitdoglab_joystick_reader/)
+ 	+ [BitDogLab: CPU Temperature Reader](./projects/tasks/bitdoglab_cpu_temperature_reader/)

@@ -1,0 +1,6 @@
+<map id="app/main.c" name="app/main.c">
+<area shape="rect" id="node1" title="Application that makes the LED integrated in the pico board switch between On and OFF every 500ms." alt="" coords="99,5,194,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,72,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="96,80,197,107"/>
+<area shape="rect" id="node4" href="$hal__led_8h.html" title="Interface hardware abstraction layer (HAL) to control an LED integrated on the pico board." alt="" coords="222,80,354,107"/>
+</map>

@@ -70,8 +70,8 @@ pico_add_extra_outputs(bitdoglab_code_structuring_for_modular_architecture)
 # === GENERATE AUTOMATIC DOCUMENTATION (OPTIONAL) ===
 
 # Creates an option for the user to decide whether to generate documentation
-option(GENERATE_DOCUMENTATION "Generate project documentation using Doxygen" OFF)
-# option(GENERATE_DOCUMENTATION "Generate project documentation using Doxygen" ON)
+# option(GENERATE_DOCUMENTATION "Generate project documentation using Doxygen" OFF)
+option(GENERATE_DOCUMENTATION "Generate project documentation using Doxygen" ON)
 
 
 # Try to find Doxygen installed
@@ -90,12 +90,12 @@ if (DOXYGEN_FOUND AND GENERATE_DOCUMENTATION)
     add_custom_target(doc_doxygen
         COMMAND ${DOXYGEN_EXECUTABLE} ${DOXYGEN_OUT}
         WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
-        COMMENT "Gerando documentação com Doxygen..."
+        COMMENT "Generating documentation with Doxygen..."
         VERBATIM
     )
     
     # Makes the documentation be generated only after compiling the project
-    add_dependencies(bitdoglab_estruturacao_codigo_arquitetura_modular doc_doxygen)
+    add_dependencies(bitdoglab_code_structuring_for_modular_architecture doc_doxygen)
 else()
     if(GENERATE_DOCUMENTATION)
         message(WARNING "Doxygen not found! Documentation will not be generated")

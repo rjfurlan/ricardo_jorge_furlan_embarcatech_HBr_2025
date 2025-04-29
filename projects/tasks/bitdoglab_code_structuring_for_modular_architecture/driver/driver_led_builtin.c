@@ -1,12 +1,12 @@
 /**
- * @file  driver_led_builtin.h
+ * @file  driver_led_builtin.c
  * @brief Interface for physical(metal) LED control
  * 
  * This module provides functions to initialize and set the state of an LED integrated on the pico board.
  *  
  * @author  Ricardo Jorge Furlan
- * @date    27/04/2025
- * @version 0.1
+ * @date    29/04/2025
+ * @version 0.2
  */
 
 

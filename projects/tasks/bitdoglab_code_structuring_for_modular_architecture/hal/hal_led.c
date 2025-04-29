@@ -1,12 +1,12 @@
 /**
- * @file  driver_led_builtin.c
+ * @file  hal_led.c
  * @brief Interface hardware abstraction layer (HAL) to control an LED integrated on the pico board
  * 
  * This module provides functions to initialize and toggle the state of an LED integrated on the pico board.
  *  
  * @author  Ricardo Jorge Furlan
- * @date    27/04/2025
- * @version  0.1
+ * @date    29/04/2025
+ * @version  0.2
  */
 
 #include "../include/driver_led_builtin.h"

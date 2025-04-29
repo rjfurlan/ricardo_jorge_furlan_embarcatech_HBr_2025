@@ -1,6 +1,7 @@
 PROJECT_NAME           = "BitDogLab Code structuring for modular architecture"
 OUTPUT_DIRECTORY       = docs
-INPUT                  = ./include ./app ./hal ./driver
+INPUT                  = ./include ./app ./hal ./driver README.md
+USE_MDFILE_AS_MAINPAGE = README.md
 RECURSIVE              = YES
 GENERATE_LATEX         = NO
 QUIET                  = YES

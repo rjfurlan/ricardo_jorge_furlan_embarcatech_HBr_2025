@@ -1,0 +1,5 @@
+<map id="include/driver_led_builtin.h" name="include/driver_led_builtin.h">
+<area shape="rect" id="node1" title="Interface for physical(metal) LED control." alt="" coords="115,5,254,47"/>
+<area shape="rect" id="node2" href="$driver__led__builtin_8c.html" title="Interface for physical(metal) LED control." alt="" coords="5,95,193,121"/>
+<area shape="rect" id="node3" href="$hal__led_8c.html" title="Interface hardware abstraction layer (HAL) to control an LED integrated on the pico board." alt="" coords="218,95,322,121"/>
+</map>

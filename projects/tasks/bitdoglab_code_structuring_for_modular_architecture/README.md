@@ -29,14 +29,19 @@
 
 
 ## Proposed modular architecture
-	projeto/
-	├── app/
-	│   └── main.c
-	├── drivers/
-	│   └── led_embutido.c
-	├── hal/
-	│   └── hal_led.c
-	├── include/
-	│   ├── led_embutido.h
-	│   └── hal_led.h
-	└── CMakeLists.txt
+	projeto/  
+	├── app/  
+	│   └── main.c  
+	├── drivers/  
+	│   └── led_embutido.c  
+	├── hal/  
+	│   └── hal_led.c  
+	├── include/  
+	│   ├── led_embutido.h  
+	│   └── hal_led.h  
+	└── CMakeLists.txt  
+
+
+## Starting to document code with the Doxigen
+
+[Go to Documentation](./docs/html/index.html)

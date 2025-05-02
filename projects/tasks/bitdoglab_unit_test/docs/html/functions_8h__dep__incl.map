@@ -1,0 +1,6 @@
+<map id="app/functions.h" name="app/functions.h">
+<area shape="rect" id="node1" title="function library" alt="" coords="137,5,259,32"/>
+<area shape="rect" id="node2" href="$functions_8c.html" title="function library" alt="" coords="5,80,127,107"/>
+<area shape="rect" id="node3" href="$main_8c.html" title="Main function." alt="" coords="151,80,245,107"/>
+<area shape="rect" id="node4" href="$test__functions_8c.html" title="Run automatic tests on the adc_to_celsius function." alt="" coords="270,80,425,107"/>
+</map>

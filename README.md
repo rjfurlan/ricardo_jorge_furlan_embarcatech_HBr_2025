@@ -29,6 +29,4 @@
 	+ [BitDogLab: Joystick Reader](./projects/tasks/bitdoglab_joystick_reader/)
  	+ [BitDogLab: CPU Temperature Reader](./projects/tasks/bitdoglab_cpu_temperature_reader/)
  	+ [BitDogLab: Code structuring for modular architecture](./projects/tasks/bitdoglab_code_structuring_for_modular_architecture/)
-
- 	
-
+ 	+ [BitDogLab: Unit Test](./projects/tasks/bitdoglab_unit_test/)

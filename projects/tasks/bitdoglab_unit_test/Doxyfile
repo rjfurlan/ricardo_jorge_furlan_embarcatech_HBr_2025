@@ -1,0 +1,9 @@
+PROJECT_NAME           = "BitDogLab Unit Test"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = ./app ./test README.md
+USE_MDFILE_AS_MAINPAGE = README.md
+RECURSIVE              = YES
+GENERATE_LATEX         = NO
+QUIET                  = YES
+WARN_IF_UNDOCUMENTED   = YES
+FILE_PATTERNS          = *.h *.c

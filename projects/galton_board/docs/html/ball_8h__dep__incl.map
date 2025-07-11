@@ -1,0 +1,10 @@
+<map id="app/ball.h" name="app/ball.h">
+<area shape="rect" id="node1" title="Sets ball size values." alt="" coords="139,5,226,32"/>
+<area shape="rect" id="node2" href="$ball_8c.html" title="Sets ball size values." alt="" coords="5,80,91,107"/>
+<area shape="rect" id="node3" href="$gb__structure_8h.html" title="Defines the structure (and global data) of the gb configuration data." alt="" coords="221,80,363,107"/>
+<area shape="rect" id="node5" href="$menu__structure__main_8c.html" title="Defines the main menu items and actions." alt="" coords="160,229,312,271"/>
+<area shape="rect" id="node8" href="$play_8c.html" title="Displays or runs the Galton Board in various modes." alt="" coords="513,237,599,263"/>
+<area shape="rect" id="node4" href="$gb__structure_8c.html" title="Defines the structure (and global data) of the gb configuration data." alt="" coords="166,155,309,181"/>
+<area shape="rect" id="node6" href="$play_8h.html" title="Displays or runs the Galton Board in various modes." alt="" coords="384,155,472,181"/>
+<area shape="rect" id="node7" href="$menu__structure__play_8c.html" title="Defines the play menu items." alt="" coords="336,229,488,271"/>
+</map>

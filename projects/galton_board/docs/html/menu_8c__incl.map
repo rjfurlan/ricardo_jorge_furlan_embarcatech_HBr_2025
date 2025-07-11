@@ -1,0 +1,10 @@
+<map id="app/menu.c" name="app/menu.c">
+<area shape="rect" id="node1" title="Manages a generic menu that is described by parameters." alt="" coords="192,5,291,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,87,72,114"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,87,167,114"/>
+<area shape="rect" id="node4" title=" " alt="" coords="207,244,308,271"/>
+<area shape="rect" id="node5" href="$menu_8h.html" title="Manages a generic menu that is described by parameters." alt="" coords="243,87,314,114"/>
+<area shape="rect" id="node7" href="$input_8h.html" title="Interface for input modules: USB or Mouse." alt="" coords="339,87,405,114"/>
+<area shape="rect" id="node8" href="$display_8h_source.html" title=" " alt="" coords="429,80,568,121"/>
+<area shape="rect" id="node6" href="$menu__structure_8h.html" title="Define a structure that contains functions for a given menu item." alt="" coords="243,169,379,196"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="app/bell.h" name="app/bell.h">
+<area shape="rect" id="node1" title="Bell values, Gaussian." alt="" coords="78,5,165,32"/>
+<area shape="rect" id="node2" href="$bell_8c.html" title="Bell values, Gaussian." alt="" coords="5,80,91,107"/>
+<area shape="rect" id="node3" href="$histogram__bell_8c.html" title="Sets the visual mode ​​for how the bell will be displayed in the histogram." alt="" coords="115,80,274,107"/>
+</map>

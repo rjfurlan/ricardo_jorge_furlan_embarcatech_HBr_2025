@@ -1,0 +1,7 @@
+<map id="app/input.h" name="app/input.h">
+<area shape="rect" id="node1" title="Interface for input modules: USB or Mouse." alt="" coords="184,5,279,32"/>
+<area shape="rect" id="node2" href="$input_8c.html" title="Interface for input modules: USB or Mouse." alt="" coords="5,80,100,107"/>
+<area shape="rect" id="node3" href="$main_8c.html" title="Initialize hardware and call main menu." alt="" coords="124,80,219,107"/>
+<area shape="rect" id="node4" href="$menu_8c.html" title="Manages a generic menu that is described by parameters." alt="" coords="243,80,342,107"/>
+<area shape="rect" id="node5" href="$play_8c.html" title="Displays or runs the Galton Board in various modes." alt="" coords="367,80,453,107"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="app/histogram_bars.h" name="app/histogram_bars.h">
+<area shape="rect" id="node1" title="Sets the visual mode of the histogram separation bars." alt="" coords="193,5,355,32"/>
+<area shape="rect" id="node2" href="$gb__structure_8h.html" title="Defines the structure (and global data) of the gb configuration data." alt="" coords="115,80,257,107"/>
+<area shape="rect" id="node8" href="$histogram__bars_8c.html" title="Sets the visual mode of the histogram separation bars." alt="" coords="282,80,445,107"/>
+<area shape="rect" id="node3" href="$gb__structure_8c.html" title="Defines the structure (and global data) of the gb configuration data." alt="" coords="5,155,148,181"/>
+<area shape="rect" id="node4" href="$menu__structure__main_8c.html" title="Defines the main menu items and actions." alt="" coords="86,229,238,271"/>
+<area shape="rect" id="node5" href="$play_8h.html" title="Displays or runs the Galton Board in various modes." alt="" coords="270,155,358,181"/>
+<area shape="rect" id="node6" href="$menu__structure__play_8c.html" title="Defines the play menu items." alt="" coords="262,229,414,271"/>
+<area shape="rect" id="node7" href="$play_8c.html" title="Displays or runs the Galton Board in various modes." alt="" coords="439,237,525,263"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="app/play.h" name="app/play.h">
+<area shape="rect" id="node1" title="Displays or runs the Galton Board in various modes." alt="" coords="150,5,238,32"/>
+<area shape="rect" id="node2" href="$gb__structure_8h.html" title="Defines the structure (and global data) of the gb configuration data." alt="" coords="137,80,251,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="197,229,298,256"/>
+<area shape="rect" id="node4" href="$ball_8h.html" title="Sets ball size values." alt="" coords="26,155,85,181"/>
+<area shape="rect" id="node5" href="$balls_8h.html" title="Sets values ​​for how many balls will be present simultaneously." alt="" coords="109,155,175,181"/>
+<area shape="rect" id="node6" href="$gb__speed_8h.html" title="Sets speed values, time tick of the balls movement." alt="" coords="199,155,295,181"/>
+<area shape="rect" id="node7" href="$histogram__bars_8h.html" title="Sets the visual mode of the histogram separation bars." alt="" coords="320,155,455,181"/>
+<area shape="rect" id="node8" href="$histogram__bell_8h.html" title="Sets the visual mode ​​for how the bell will be displayed in the histogram." alt="" coords="479,155,610,181"/>
+</map>

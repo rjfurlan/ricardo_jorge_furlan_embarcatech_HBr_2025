@@ -1,0 +1,5 @@
+<map id="app/menu.h" name="app/menu.h">
+<area shape="rect" id="node1" title="Manages a generic menu that is described by parameters." alt="" coords="24,5,123,32"/>
+<area shape="rect" id="node2" href="$menu__structure_8h.html" title="Define a structure that contains functions for a given menu item." alt="" coords="5,80,141,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="23,155,124,181"/>
+</map>

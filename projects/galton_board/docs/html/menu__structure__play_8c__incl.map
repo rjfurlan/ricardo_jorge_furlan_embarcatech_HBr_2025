@@ -1,0 +1,16 @@
+<map id="app/menu_structure_play.c" name="app/menu_structure_play.c">
+<area shape="rect" id="node1" title="Defines the play menu items." alt="" coords="228,5,380,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,72,121"/>
+<area shape="rect" id="node3" href="$menu__structure__play_8h.html" title="Defines the play menu items." alt="" coords="97,95,266,121"/>
+<area shape="rect" id="node6" href="$histogram__data_8h.html" title="Update data and draw histogram." alt="" coords="199,169,335,196"/>
+<area shape="rect" id="node7" href="$menu__structure__histogram_8h.html" title="Defines the histogram menu items." alt="" coords="359,169,569,196"/>
+<area shape="rect" id="node8" href="$play_8h.html" title="Displays or runs the Galton Board in various modes." alt="" coords="525,95,585,121"/>
+<area shape="rect" id="node4" href="$menu__structure_8h.html" title="Define a structure that contains functions for a given menu item." alt="" coords="39,169,175,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="375,319,476,345"/>
+<area shape="rect" id="node9" href="$gb__structure_8h.html" title="Defines the structure (and global data) of the gb configuration data." alt="" coords="593,169,708,196"/>
+<area shape="rect" id="node10" href="$ball_8h.html" title="Sets ball size values." alt="" coords="429,244,488,271"/>
+<area shape="rect" id="node11" href="$balls_8h.html" title="Sets values ​​for how many balls will be present simultaneously." alt="" coords="513,244,578,271"/>
+<area shape="rect" id="node12" href="$gb__speed_8h.html" title="Sets speed values, time tick of the balls movement." alt="" coords="603,244,699,271"/>
+<area shape="rect" id="node13" href="$histogram__bars_8h.html" title="Sets the visual mode of the histogram separation bars." alt="" coords="723,244,858,271"/>
+<area shape="rect" id="node14" href="$histogram__bell_8h.html" title="Sets the visual mode ​​for how the bell will be displayed in the histogram." alt="" coords="883,244,1013,271"/>
+</map>

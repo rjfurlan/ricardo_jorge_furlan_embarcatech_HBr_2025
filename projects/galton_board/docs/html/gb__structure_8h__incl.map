@@ -1,0 +1,9 @@
+<map id="app/gb_structure.h" name="app/gb_structure.h">
+<area shape="rect" id="node1" title="Defines the structure (and global data) of the gb configuration data." alt="" coords="123,5,265,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="197,155,298,181"/>
+<area shape="rect" id="node3" href="$ball_8h.html" title="Sets ball size values." alt="" coords="26,80,85,107"/>
+<area shape="rect" id="node4" href="$balls_8h.html" title="Sets values ​​for how many balls will be present simultaneously." alt="" coords="109,80,175,107"/>
+<area shape="rect" id="node5" href="$gb__speed_8h.html" title="Sets speed values, time tick of the balls movement." alt="" coords="199,80,295,107"/>
+<area shape="rect" id="node6" href="$histogram__bars_8h.html" title="Sets the visual mode of the histogram separation bars." alt="" coords="320,80,455,107"/>
+<area shape="rect" id="node7" href="$histogram__bell_8h.html" title="Sets the visual mode ​​for how the bell will be displayed in the histogram." alt="" coords="479,80,610,107"/>
+</map>

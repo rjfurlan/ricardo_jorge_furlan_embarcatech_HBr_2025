@@ -1,0 +1,5 @@
+<map id="app/menu_structure_main.h" name="app/menu_structure_main.h">
+<area shape="rect" id="node1" title="Defines the main menu items and actions." alt="" coords="50,5,202,47"/>
+<area shape="rect" id="node2" href="$main_8c.html" title="Initialize hardware and call main menu." alt="" coords="5,102,100,129"/>
+<area shape="rect" id="node3" href="$menu__structure__main_8c.html" title="Defines the main menu items and actions." alt="" coords="125,95,277,136"/>
+</map>

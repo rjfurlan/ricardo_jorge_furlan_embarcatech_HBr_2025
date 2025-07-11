@@ -1,0 +1,5 @@
+<map id="app/conf.h" name="app/conf.h">
+<area shape="rect" id="node1" title="Some system default values." alt="" coords="117,5,206,32"/>
+<area shape="rect" id="node2" href="$histogram__data_8c.html" title="Update data and draw histogram." alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node3" href="$play_8c.html" title="Displays or runs the Galton Board in various modes." alt="" coords="193,80,279,107"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="app/balls.c" name="app/balls.c">
+<area shape="rect" id="node1" title="Sets values ​​for how many balls will be present simultaneously." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node2" href="$balls_8h.html" title="Sets values ​​for how many balls will be present simultaneously." alt="" coords="19,80,84,107"/>
+</map>

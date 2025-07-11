@@ -1,0 +1,5 @@
+<map id="app/menu_structure_play.h" name="app/menu_structure_play.h">
+<area shape="rect" id="node1" title="Defines the play menu items." alt="" coords="5,5,157,47"/>
+<area shape="rect" id="node2" href="$menu__structure_8h.html" title="Define a structure that contains functions for a given menu item." alt="" coords="13,95,149,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="31,169,132,196"/>
+</map>
